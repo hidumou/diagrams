@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T10:43:04.793Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="kPYaXYGQcXYIj6sav5hX" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T14:51:43.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="JCAbwNU023_ojeIUM43s" version="13.10.3" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="3254" dy="1801" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2518" dy="1261" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GsL85oUIj4B969iY2pAi-10" value="&lt;h1&gt;停车云平台&lt;/h1&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1282.0600000000002" y="204" width="310" height="200" as="geometry" />
+          <mxGeometry x="1282.06" y="204" width="317.94" height="220" as="geometry" />
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;width=8;endSize=7.23;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="y6ahkIjD1bQNzdBK6G0L-27" target="GsL85oUIj4B969iY2pAi-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -58,28 +58,28 @@
           <mxGeometry x="16" y="31" width="168" height="128" as="geometry" />
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="956.0000000000002" y="840" width="36" height="176" as="geometry" />
+          <mxGeometry x="960.0000000000002" y="856" width="36" height="176" as="geometry" />
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-78" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="y6ahkIjD1bQNzdBK6G0L-79" target="GsL85oUIj4B969iY2pAi-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1078.0600000000002" y="436" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1060" y="144" />
-              <mxPoint x="1406" y="144" />
+              <mxPoint x="1064" y="144" />
+              <mxPoint x="1409" y="144" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-75" value="一年级 11：30 放学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="992.0000000000002" y="893" width="144" height="16" as="geometry" />
+          <mxGeometry x="996.0000000000002" y="909" width="144" height="16" as="geometry" />
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-76" value="二年级 11：50 放学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="992.0000000000002" y="933" width="144" height="16" as="geometry" />
+          <mxGeometry x="996.0000000000002" y="949" width="144" height="16" as="geometry" />
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-77" value="其他错峰时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="992.0000000000002" y="1008" width="144" height="16" as="geometry" />
+          <mxGeometry x="996.0000000000002" y="1024" width="144" height="16" as="geometry" />
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-79" value="进车规则设置" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="992.0000000000002" y="231.75" width="136" height="200" as="geometry">
+          <mxGeometry x="996.0000000000002" y="231.75" width="136" height="200" as="geometry">
             <mxRectangle x="552" y="248" width="104" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -93,10 +93,10 @@
           <mxGeometry x="20" y="120" width="96" height="24" as="geometry" />
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-85" value="1 - 6班 12：00 放学&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1004.0000000000002" y="973" width="120" height="24" as="geometry" />
+          <mxGeometry x="1008.0000000000002" y="989" width="120" height="24" as="geometry" />
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-92" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="988.0000000000002" y="824" width="144" height="56" as="geometry" />
+          <mxGeometry x="992.0000000000002" y="840" width="144" height="56" as="geometry" />
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-33" value="&lt;h5&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;错峰放学&lt;/span&gt;&lt;/h5&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="y6ahkIjD1bQNzdBK6G0L-92" vertex="1">
           <mxGeometry width="144" height="47.040000000000006" as="geometry" />
@@ -193,7 +193,7 @@
           <mxGeometry x="1012.0600000000002" y="374" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-110" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="472" y="840" width="288" height="190" as="geometry" />
+          <mxGeometry x="472" y="856" width="288" height="190" as="geometry" />
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-109" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" parent="y6ahkIjD1bQNzdBK6G0L-110" vertex="1">
           <mxGeometry width="288" height="176" as="geometry" />
@@ -256,7 +256,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-112" value="&lt;h2&gt;学生&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="584" y="1010" width="48" height="64" as="geometry" />
+          <mxGeometry x="584" y="1016" width="48" height="64" as="geometry" />
         </mxCell>
         <mxCell id="y6ahkIjD1bQNzdBK6G0L-116" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;" parent="1" source="y6ahkIjD1bQNzdBK6G0L-109" target="y6ahkIjD1bQNzdBK6G0L-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -293,8 +293,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UHsi7p_-QJLyGyaQx9fC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="y6ahkIjD1bQNzdBK6G0L-33" target="y6ahkIjD1bQNzdBK6G0L-79">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UHsi7p_-QJLyGyaQx9fC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="y6ahkIjD1bQNzdBK6G0L-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1064" y="848" as="sourcePoint" />
+            <mxPoint x="1064" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1064" y="432" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
